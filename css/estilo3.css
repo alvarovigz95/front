@@ -1,0 +1,61 @@
+
+.verde{
+background:green;
+
+
+}
+
+.rojo{
+	background: red;
+	
+
+}
+
+
+.rosado{
+background: pink;
+
+}
+
+
+.naranja{
+background: orange;
+
+
+
+}
+
+
+.azul{
+background: blue;
+
+	
+}
+
+
+
+.lila{
+	background: purple;
+}
+
+.amarillo{
+	background: yellow;
+}
+.colheader{
+
+	min-height: 8px;
+}
+
+.menu{
+background: grey;
+margin-top:50px;
+height:100px;
+border-radius: 5px;
+padding:10px;
+
+
+}
+
+.menu h1{
+    color:white;
+}
